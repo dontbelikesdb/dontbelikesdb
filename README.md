@@ -22,11 +22,6 @@
 
 # 💫 About Me
 
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
 ### 👋 Hi, I'm Soumyadeep!
 
 🎓 B.Tech Computer Science & Engineering Student
@@ -43,21 +38,6 @@
 
 🥈 Flipkart GRID 7.0 National Semi-finalist
 
-💡 Passionate about
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- System Design
-- Backend Engineering
-
-🌱 Currently Learning
-
-- Large Language Models
-- Distributed Systems
-- High Performance Backend
-- System Design
-
 🎯 Goal
 
 To build impactful AI products that solve real-world problems.
@@ -66,16 +46,6 @@ To build impactful AI products that solve real-world problems.
 
 When I'm not coding, you'll probably find me watching anime, sketching, playing chess or exploring new technologies.
 
-</td>
-
-<td width="40%" align="center">
-
-<img width="100%" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif">
-
-</td>
-
-</tr>
-</table>
 
 ---
 
