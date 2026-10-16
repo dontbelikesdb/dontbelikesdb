@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FF69B4,35:EF93C4,70:F8BBD0,100:FF69B4&text=Soumyadeep%20Biswas&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%7C%20ML%20Developer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn"/>
 
-# Hey there, I'm Soumyadeep Biswas 👋
+# Hey there, I'm Soumyadeep Biswas 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=EF93C4&center=true&vCenter=true&random=false&width=700&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Developer;Full+Stack+Developer;Research+Enthusiast;SIH+2025+Grand+Finalist;Always+Learning+Something+New"/>
 
